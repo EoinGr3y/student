@@ -1,4 +1,4 @@
-package com.student.main;
+package src.com.student.main;
 
 public class StudentDriver {
 	
